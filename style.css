@@ -1,0 +1,24 @@
+table{
+   border: 2px solid black;
+  column-rule: 5;
+}
+h1{
+    text-align: center;
+  margin: 5px;
+  padding: 5px;
+  border: 2px;
+  border-color: red;
+}
+nav{
+ text-align: right;
+}
+a{
+  text-decoration: none;
+  background-color: #f404f2;
+  color: #ffff00;
+  
+}
+.fon{
+  font-size: 10px;
+  font-family: cursive;
+}
